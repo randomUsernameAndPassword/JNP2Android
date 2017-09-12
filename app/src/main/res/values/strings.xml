@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">JNPproject</string>
+
+    <string name="split_prompt">Osoby dzielące rachunek</string>
+
+    <string-array name="split_enumerator">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+</resources>
